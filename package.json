@@ -17,7 +17,7 @@
     "hubot-rules": "^0.1.2",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
-    "coffee-script": "^1.12.6",
+    "coffee-script": "^1.12.6"
   },
   "engines": {
     "node": "8.9.1",
